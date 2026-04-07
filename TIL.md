@@ -12,10 +12,9 @@ tags:
 ## 카테고리
 
 - [[Programming Language/Programming Language|Programming Language]]
-  - [[Programming Language/Go/Go|Go]]
-  - [[Programming Language/Rust/Rust|Rust]]
-  - [[Programming Language/Ruby/Ruby|Ruby]]
-- [[Kubernetes/Kubernetes|Kubernetes]]
+  - [[Programming Language/Go/Go|Go]] — Goroutine, Channel, Context, Project Layout
+  - [[Programming Language/Rust/Rust|Rust]] — Ownership, Trait, Cargo, Module System
+  - [[Programming Language/Ruby/Ruby|Ruby]] — Basics, rbenv
 
 ## 규칙
 
