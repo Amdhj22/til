@@ -1,5 +1,5 @@
 ---
-createdAt: '2026-04-07 15:55'
+created: '2026-04-07 15:55'
 tags:
   - til
   - index
